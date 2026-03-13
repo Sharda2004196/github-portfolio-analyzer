@@ -130,7 +130,7 @@ The current JSO platform faces a key problem — **recruiters cannot easily eval
 
 ## 🔗 Related Projects
 
-- [Xavier — AI Assistant (n8n Workflow)] https://github.com/Sharda2004196/pibbs-ai-assistant
+- [Xavier — AI Assistant (n8n Workflow)] https://github.com/Sharda2004196/Xavier-ai-assistant
 - [House Price Prediction — ML Regression] https://github.com/Sharda2004196/house-price-prediction
 
 ---

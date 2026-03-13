@@ -2,10 +2,14 @@
 
 > An AI-powered agent that evaluates GitHub repositories and generates a portfolio score, recruiter verdict, and improvement recommendations — built for the JSO Agentic AI platform.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]https://portfolio-analyzer-6q9rkqpkozx7xwnfktthomith.streamlit.app
+![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]https://portfolio-analyzer-6q9rkqpkozx7xwnfktthomith.streamlit.app
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+
 ![Groq](https://img.shields.io/badge/Groq-LLaMA3--70B-orange)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit)
+
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
 ---

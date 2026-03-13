@@ -130,14 +130,15 @@ The current JSO platform faces a key problem — **recruiters cannot easily eval
 
 ## 🔗 Related Projects
 
-- [Xavier — AI Assistant (n8n Workflow)](https://github.com/Sharda2004196/pibbs-ai-assistant)
-- [House Price Prediction — ML Regression](https://github.com/Sharda2004196/house-price-prediction)
+- [Xavier — AI Assistant (n8n Workflow)] https://github.com/Sharda2004196/pibbs-ai-assistant
+- [House Price Prediction — ML Regression] https://github.com/Sharda2004196/house-price-prediction
 
 ---
 
 ## 👤 Author
 
 **Sharda Vatsal Bhat**
+
 Aspiring AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/Sharda2004196)
